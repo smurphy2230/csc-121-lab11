@@ -8,4 +8,5 @@ for i in range(5):
     else:
         user_input = user_input
         int_list.append(user_input)
+
 print("Integer list: ", int_list)
